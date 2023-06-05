@@ -531,12 +531,12 @@ class ScrollHeadOverlayState extends State<ScrollHeadOverlay> {
                 if (index <= 0 ||
                     index > widget.pdfViewerController.pageCount) {
                   _textFieldController.clear();
-                  return _localizations!.pdfInvalidPageNumberLabel;
+                  return "Iltimos to'g'ri bet raqamini kiriting!";
                 }
               }
             } on Exception {
               _textFieldController.clear();
-              return _localizations!.pdfInvalidPageNumberLabel;
+              return "Iltimos to'g'ri bet raqamini kiriting!";
             }
             return null;
           },
