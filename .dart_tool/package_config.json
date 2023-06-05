@@ -45,9 +45,9 @@
     },
     {
       "name": "device_info_plus",
-      "rootUri": "file:///Users/sirojiddinodamboev/.pub-cache/hosted/pub.dev/device_info_plus-8.2.2",
+      "rootUri": "file:///Users/sirojiddinodamboev/.pub-cache/hosted/pub.dev/device_info_plus-9.0.2",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.18"
     },
     {
       "name": "device_info_plus_platform_interface",
@@ -302,6 +302,12 @@
       "languageVersion": "2.17"
     },
     {
+      "name": "win32_registry",
+      "rootUri": "file:///Users/sirojiddinodamboev/.pub-cache/hosted/pub.dev/win32_registry-1.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
       "name": "xml",
       "rootUri": "file:///Users/sirojiddinodamboev/.pub-cache/hosted/pub.dev/xml-6.2.2",
       "packageUri": "lib/",
@@ -314,7 +320,7 @@
       "languageVersion": "2.17"
     }
   ],
-  "generated": "2023-06-05T08:05:09.272357Z",
+  "generated": "2023-06-05T09:00:04.301153Z",
   "generator": "pub",
   "generatorVersion": "2.19.6"
 }
